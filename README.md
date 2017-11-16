@@ -1,2 +1,2 @@
 # Lidis
-Light weight &amp; high performance redis client based in node.js
+Light weight &amp; high performance redis client based on node.js
